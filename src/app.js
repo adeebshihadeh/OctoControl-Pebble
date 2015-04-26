@@ -199,7 +199,7 @@ jogging_window.on("longClick", "select", function(){
 
 function send_command(command){
   if(command.indexOf("G91") != -1){
-    var jog_command = command.replace("G91", "").replace("G90", "");
+    var jog_command = command.replace("G91 ", "").replace("G90", "");
     send_request("G91");
     send_request(jog_command);
     send_request("G90");
