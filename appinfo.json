@@ -1,9 +1,9 @@
 {
     "appKeys": {},
     "capabilities": [
-        ""
+        "configurable"
     ],
-    "companyName": "adeebshihadeh@gmail.com",
+    "companyName": "quillford",
     "longName": "OctoControl",
     "projectType": "pebblejs",
     "resources": {

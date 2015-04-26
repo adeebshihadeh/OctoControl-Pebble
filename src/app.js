@@ -2,14 +2,28 @@
 
 var UI = require("ui");
 var Vector2 = require("vector2");
-var ajax = require("ajax");
 var Settings = require("settings");
+var ajax = require("ajax");
 
-var octoIP = "192.168.1.133";
-var octoApikey = "156A8AE4000940CFB3C51C9DFD812D8A";
+var octoIP = Settings.option("ipAddress");
+var octoApikey = Settings.option("apikey");
 var currentAxis;
 var joggingIncrements = ["0.1", "1", "10", "100"];
 var joggingIncrement = joggingIncrements[1];
+
+Settings.config(
+  { url: "http://quillford.github.io/pebble-configs/OctoControl-config.html"},
+  function(e){
+    console.log("opening settings");
+  },
+  function(e){
+    console.log("closed settings");
+    console.log(Settings.option("ipAddress"));
+    console.log(Settings.option("apikey"));
+    octoIP = Settings.option("ipAddress");
+    octoApikey = Settings.option("apikey");
+  }
+);
 
 var main_menu = new UI.Menu({
   sections: [{
@@ -184,6 +198,17 @@ jogging_window.on("longClick", "select", function(){
 });
 
 function send_command(command){
+  if(command.indexOf("G91") != -1){
+    var jog_command = command.replace("G91", "").replace("G90", "");
+    send_request("G91");
+    send_request(jog_command);
+    send_request("G90");
+  }else {
+    send_request(command);
+  }
+}
+
+function send_request(command){
   console.log("sending " + command);
   ajax(
   {
