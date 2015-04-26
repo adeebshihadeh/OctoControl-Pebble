@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="icon.svg">
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/quillford/projects/OctoControl-Pebble/graphics/small-icon.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -23,11 +26,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.125"
-     inkscape:cx="14.773723"
-     inkscape:cy="24"
+     inkscape:zoom="9.6060616"
+     inkscape:cx="16.875239"
+     inkscape:cy="34.469513"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,23 +57,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3338"
-       width="48"
-       height="48"
-       x="-1052.3622"
-       y="0.1331255"
-       transform="matrix(0,-1,1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:44.00597px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1.0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="12.053067"
+       y="1040.3735"
+       id="text4246"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4248"
+         x="12.053067"
+         y="1040.3735">c</tspan></text>
     <path
-       id="path4144-3"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 39.124085,1024.6927 3.169624,1.8489 3.169623,1.8488 -3.185962,1.8206 -3.185962,1.8205 0.01634,-3.6694 z m -30.2481703,7.3389 -3.1696236,-1.8489 -3.1696235,-1.8488 3.1859623,-1.8206 3.1859621,-1.8205 -0.016339,3.6694 z m -2.1605839,-5.4504 34.8029182,0 0,3.562 -34.8029182,0 z"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path4144-3-9"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 20.463675,1013.2381 1.8489,-3.1697 1.8488,-3.1696 1.8206,3.186 1.8205,3.1859 -3.6694,-0.016 z m 7.3389,30.2481 -1.8489,3.1697 -1.8488,3.1696 -1.8206,-3.186 -1.8205,-3.1859 3.6694,0.016 z m -5.4504,2.1606 0,-34.8029 3.562,0 0,34.8029 z"
+       style="fill:#000000;fill-opacity:1.0;stroke:none"
+       d="m 11.980214,1007.5443 -12.01978522,20.818 12.01978522,20.8179 24.039571,0 12.019786,-20.8179 -12.019786,-20.818 -24.039571,0 z m 2.092272,3.624 19.855026,0 9.925461,17.194 -9.925461,17.194 -19.855026,0 -9.9254596,-17.194 9.9254596,-17.194 z"
+       id="path4266"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
