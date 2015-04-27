@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="720"
+   height="320"
+   viewBox="0 0 720.00001 320.00001"
+   id="svg4294"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="header.svg">
+  <defs
+     id="defs4296" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8527778"
+     inkscape:cx="360"
+     inkscape:cy="160"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="459"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4299">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-732.36216)">
+    <rect
+       style="fill:#2aff80;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect4321"
+       width="720"
+       height="320"
+       x="0"
+       y="732.36218" />
+    <g
+       id="g4344"
+       transform="translate(-7.8046,8.580365)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4246"
+         y="934.90881"
+         x="78.951447"
+         style="font-style:normal;font-weight:normal;font-size:187.31495667px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="934.90881"
+           x="78.951447"
+           id="tspan4248"
+           sodipodi:role="line">c</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4266"
+         d="m 78.641429,795.16851 -51.163224,88.6135 51.163224,88.61307 102.326371,0 51.1632,-88.61307 -51.1632,-88.6135 -102.326371,0 z m 8.90592,15.42585 84.514531,0 42.24852,73.18765 -42.24852,73.18765 -84.514531,0 -42.24854,-73.18765 42.24854,-73.18765 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4405"
+       y="845.21429"
+       x="218.68605"
+       style="font-style:normal;font-weight:normal;font-size:81.20892334px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="fill:#cccccc;fill-opacity:1"
+         y="845.21429"
+         x="218.68605"
+         id="tspan4407"
+         sodipodi:role="line">OctoControl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:81.20892334px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="220.68605"
+       y="843.21429"
+       id="text4349"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4351"
+         x="220.68605"
+         y="843.21429"
+         style="fill:#ffffff;fill-opacity:1">OctoControl</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4409"
+       y="936.9408"
+       x="468.71472"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:1"
+         id="tspan4411"
+         y="936.9408"
+         x="475.08191"
+         sodipodi:role="line">Control your 3D printer </tspan><tspan
+         style="text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:1"
+         id="tspan4413"
+         y="986.9408"
+         x="468.71472"
+         sodipodi:role="line">with your watch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="470.71472"
+       y="934.9408"
+       id="text4375"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="477.08191"
+         y="934.9408"
+         id="tspan4379"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Control your 3D printer </tspan><tspan
+         sodipodi:role="line"
+         x="470.71472"
+         y="984.9408"
+         id="tspan4383"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">with your watch</tspan></text>
+  </g>
+</svg>
