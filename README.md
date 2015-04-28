@@ -18,3 +18,6 @@ After that is enabled, simply enter the IP Address and API key of your OctoPrint
 
 # Screenshots
 ![](https://raw.githubusercontent.com/quillford/OctoControl-Pebble/master/graphics/screenshots/main-menu.png) ![](https://raw.githubusercontent.com/quillford/OctoControl-Pebble/master/graphics/screenshots/main-menu2.png) ![](https://raw.githubusercontent.com/quillford/OctoControl-Pebble/master/graphics/screenshots/jog.png) ![](https://github.com/quillford/OctoControl-Pebble/raw/master/graphics/screenshots/shortcuts-menu.png) ![](https://github.com/quillford/OctoControl-Pebble/raw/master/graphics/screenshots/help.png)
+
+# Issues
+If you encounter any issues, please file a bug report so that it can be fixed. Also, make sure that your phone (or the device your Pebble is getting its internet from) is connected to the same network as the OctoPrint instance and not your cellular network for instance.
