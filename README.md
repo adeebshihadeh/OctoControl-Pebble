@@ -1,6 +1,9 @@
 # OctoControl-Pebble
 a Pebble watch app for controlling your [OctoPrint](https://github.com/foosel/OctoPrint) powered 3D printer
-![](http://pblweb.com/badge/553d8acde95db472f8000021/orange/medium)
+
+<a href="https://apps.getpebble.com/applications/553d8acde95db472f8000021">
+  <img src="http://pblweb.com/badge/553d8acde95db472f8000021/orange/medium" alt="OctoControl - Control your 3D printer with your watch is available on the Pebble appstore" />
+</a>
 
 # Downloading
 You have a few options here. You can build it from source to get the latest features (that is only the case if the Pebble iOS app has not been updated). You can search for it on the Pebble app store or go here:
